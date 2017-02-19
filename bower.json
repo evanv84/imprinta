@@ -1,0 +1,21 @@
+{
+  "name": "imprinta.ru",
+  "description": "3d printers production",
+  "main": "index.html",
+  "keywords": [
+    "3d",
+    "printer"
+  ],
+  "authors": [
+    "i.i."
+  ],
+  "license": "MIT",
+  "homepage": "imprinta.ru",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
